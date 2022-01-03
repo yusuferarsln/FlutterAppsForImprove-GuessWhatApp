@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "486907477097",
+    "project_id": "guess-what-15618",
+    "storage_bucket": "guess-what-15618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486907477097:android:63bedb753f2ae3019af6f8",
+        "android_client_info": {
+          "package_name": "com.example.guess_what"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486907477097-hlj132mtiekl7gr56l50db5kno3140l5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guess_what",
+            "certificate_hash": "9c6429d69539364f46219fdecfd32fa34d7d3ccc"
+          }
+        },
+        {
+          "client_id": "486907477097-88sfvn50hq590m4csv89uh40tf9ds50l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe-F-wQ4MMAphRxFiQOGb32CCOeosQibo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486907477097-88sfvn50hq590m4csv89uh40tf9ds50l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
